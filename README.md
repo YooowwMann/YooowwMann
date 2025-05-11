@@ -1,13 +1,68 @@
-![Introduc](github-header-image.png)
+<div align="center">
+  <img src="github-header-image.png"  />
+</div>
+
+---
+
 ### 💫 About Me:
  🌱 I’m currently learning Python, HTML, CSS, C++<br><br>📫 How to reach me ardijakarta4@gmail.com<br><br>⚡ Fun fact I am Freak, Bussy
 
 
 #### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amang_14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yoow_mann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazuwardi-m-s-809174334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardijakarta4@gmail.cpm) 
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lazuwardi-m-s" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/amang_14" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/Yoow_mann" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:ardijakarta4@gmail.cpm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+---
 
 #### 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32" alt="canva logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=blender" height="32" alt="blender logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="fastapi logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="32" alt="android logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="32" alt="arduino logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=discord" height="32" alt="discord logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+</div>
+
+---
+
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YooowwMann&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YooowwMann&theme=one_dark_pro&hide_border=true)<br/>
@@ -15,9 +70,9 @@
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-  ### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArdiShaqil) 
+---
+#### 💰 You can help me by Donating
+  [![PayPal](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg)](https://paypal.me/ArdiShaqil) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
